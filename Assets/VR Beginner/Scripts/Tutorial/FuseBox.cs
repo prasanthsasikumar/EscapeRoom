@@ -7,6 +7,8 @@ public class FuseBox : MonoBehaviour
     public ParticleSystem[] SparkleFuseVFX;
     public ParticleSystem[] SwitchedOnVFX;
     public ParticleSystem[] SwitchedOffVFX;
+
+    public List<GameObject> lights;
     
     bool m_FusePresent = false;
 
@@ -40,6 +42,17 @@ public class FuseBox : MonoBehaviour
             foreach (var s in SparkleFuseVFX)
             {
                 s.Play();
+                foreach(GameObject light in lights)
+                {
+                    light.SetActive(true);
+                }
+            }
+        }
+        else
+        {
+            foreach (GameObject light in lights)
+            {
+                light.SetActive(false);
             }
         }
     }
