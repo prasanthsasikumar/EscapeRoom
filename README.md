@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/prasanthsasikumar/EscapeRoom)
 
-EscapeRoom: Virtual Escape room Template for DES241 2020 Batch
+EscapeRoom: Virtual Escape room Template for DES241 2020 Class
 
 
 # REQUIREMENTS
