@@ -1,7 +1,7 @@
 # EscapeRoom
  Unity EscapeRoom Template DES241
  
-[![N|Solid](https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png)](http://empathiccomputing.org/)
+[![N|Solid](https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png)](https://www.auckland.ac.nz/en.html)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/prasanthsasikumar/EscapeRoom)
 
